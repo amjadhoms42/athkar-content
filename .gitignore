@@ -1,0 +1,64 @@
+# ─── Flutter / Dart ──────────────────────────────────────────────────────────
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.dart_snapshot
+doc/api/
+.pub-cache/
+.pub/
+
+# IDE
+.idea/
+.vscode/settings.json
+*.iml
+.DS_Store
+Thumbs.db
+
+# ─── Android / iOS ───────────────────────────────────────────────────────────
+**/android/local.properties
+**/android/key.properties
+**/android/app/google-services.json
+**/ios/GoogleService-Info.plist
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods/
+
+# ─── SECURITY — NEVER commit these ──────────────────────────────────────────
+# Google Service Account credentials (local dev only)
+tools/content_pipeline/service_account.json
+tools/content_pipeline/service_account*.json
+
+# Local config overrides with real values
+tools/content_pipeline/config.json
+tools/content_pipeline/.env
+
+# Any file named secrets / credentials anywhere
+**/*secret*
+**/*credential*
+**/*.pem
+**/*.p12
+**/*.keystore
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+*.egg
+.pytest_cache/
+.mypy_cache/
+
+# ─── Node (if added later) ───────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
