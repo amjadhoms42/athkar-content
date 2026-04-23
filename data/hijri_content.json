@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "HJ-0001",
+    "hijriMonth": "رمضان",
+    "hijriDay": 1,
+    "entryType": "مناسبة",
+    "title": "أول رمضان",
+    "whatHappened": "بداية شهر الصيام والقيام",
+    "benefit": "تهيئة القلب للبرنامج العبادي",
+    "recommended": "تجديد النية وتنظيم الورد",
+    "showInHome": "TRUE",
+    "showInWidget": "TRUE",
+    "priority": "عالية",
+    "order": 1,
+    "isActive": "مفعل"
+  },
+  {
+    "id": "HJ-0002",
+    "hijriMonth": "شوال",
+    "hijriDay": 15,
+    "entryType": "حدث",
+    "title": "يوم أحد",
+    "whatHappened": "وقعت فيه غزوة أحد بحسب المحتوى الذي ستضيفه",
+    "benefit": "استخراج الدرس التربوي",
+    "recommended": "قراءة موجزة عن الحدث وربطه بالفائدة العملية",
+    "showInHome": "TRUE",
+    "showInWidget": "TRUE",
+    "priority": "متوسطة",
+    "order": 2,
+    "isActive": "مفعل"
+  }
+]
