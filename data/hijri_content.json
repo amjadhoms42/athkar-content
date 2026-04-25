@@ -28,5 +28,47 @@
     "priority": "متوسطة",
     "order": 2,
     "isActive": "مفعل"
+  },
+  {
+    "id": "HJ-0003",
+    "hijriMonth": "ذو الحجة",
+    "hijriDay": 9,
+    "entryType": "مناسبة",
+    "title": "يوم عرفة",
+    "whatHappened": "يوم الوقوف بعرفة - أعظم أيام العبادة",
+    "benefit": "صيامه يكفر سنتين ماضية وآتية",
+    "recommended": "الإكثار من الدعاء والذكر والاستغفار والتهليل",
+    "showInHome": "TRUE",
+    "showInWidget": "TRUE",
+    "priority": "عالية",
+    "order": 3
+  },
+  {
+    "id": "HJ-0004",
+    "hijriMonth": "محرم",
+    "hijriDay": 10,
+    "entryType": "مناسبة",
+    "title": "يوم عاشوراء",
+    "whatHappened": "نجّى الله فيه موسى عليه السلام وقومه من فرعون",
+    "benefit": "صيامه يكفر السنة الماضية",
+    "recommended": "صيام يوم عاشوراء مع التاسع أو الحادي عشر",
+    "showInHome": "TRUE",
+    "showInWidget": "TRUE",
+    "priority": "عالية",
+    "order": 4
+  },
+  {
+    "id": "HJ-0005",
+    "hijriMonth": "رجب",
+    "hijriDay": 27,
+    "entryType": "مناسبة",
+    "title": "ليلة الإسراء والمعراج",
+    "whatHappened": "أُسري بالنبي ﷺ إلى المسجد الأقصى ثم عُرج به إلى السماوات العلا",
+    "benefit": "فُرضت فيها الصلوات الخمس",
+    "recommended": "تذكر نعمة الصلاة وتجديد العزم على إقامتها",
+    "showInHome": "TRUE",
+    "showInWidget": "FALSE",
+    "priority": "عالية",
+    "order": 5
   }
 ]
